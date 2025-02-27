@@ -6,7 +6,7 @@ Toda la descripcion del proyecto
  * integrante 1
  * integrante 2
 
-##informacion para compilar el proyecto
+## informacion para compilar el proyecto
 Inicializar el Proyecto
 Ejecuta este comando en tu terminal para crear un nuevo proyecto Vue 3 con Vite:
 npm create vite@latest nombre_proyecto --template vue
