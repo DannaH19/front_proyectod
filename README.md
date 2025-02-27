@@ -1,9 +1,10 @@
 # front_proyectod
 Toda la descripcion del proyecto
 
-##Integrantes
-*integrante 1
-*integrante 2
+## Integrantes
+
+ * integrante 1
+ * integrante 2
 
 ##informacion para compilar el proyecto
 Inicializar el Proyecto
